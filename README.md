@@ -26,3 +26,6 @@ Files informations:
 Scripts:
   - launch_tests.sh: script used to launch all the test that are in benchmark. In order to run, you would need to have the antlr and mvap jar well placed.
   - run_t1_mvap.sh: used to run the t1.mvap file.
+
+
+This was a very pleasant project and I am thrilled to work on new project leveraging langage theory.
